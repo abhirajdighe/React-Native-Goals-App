@@ -23,8 +23,6 @@ Built using `FlatList`, custom components, and modal input.
 |-----------------|------------|-------------|
 | ![Add Goal](https://source.unsplash.com/300x600/?mobile,app) | ![Goals List](https://source.unsplash.com/300x600/?list,task) | ![Delete Goal](https://source.unsplash.com/300x600/?delete,app) |
 
-> Images are placeholders from [Unsplash](https://unsplash.com). Replace them with your own app screenshots when ready.
-
 ---
 
 ## 🛠️ Installation
