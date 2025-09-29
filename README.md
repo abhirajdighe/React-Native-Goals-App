@@ -24,6 +24,7 @@ Built using `FlatList`, custom components, and modal input.
 | ![Add Goal](./assets/screenshots/add-goal.jpeg) | ![Goals List](./assets//screenshots/goal-List.jpeg) | ![Delete Goal](./assets//screenshots/delete-goal.jpeg) |
 
 
+
 ## 🛠️ Installation
 
 1. Clone the repo
