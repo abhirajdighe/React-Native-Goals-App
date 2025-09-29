@@ -21,7 +21,7 @@ Built using `FlatList`, custom components, and modal input.
 
 | Add Goal Screen | Goals List | Delete Goal |
 |-----------------|------------|-------------|
-| ![Add Goal](./assets/screenshots/add-goal.jpeg) | ![Goals List](https://source.unsplash.com/300x600/?list,task) | ![Delete Goal](https://source.unsplash.com/300x600/?delete,app) |
+| ![Add Goal](./assets/screenshots/add-goal.jpeg) | ![Goals List](./assets//screenshots/goal-List.jpeg) | ![Delete Goal](./assets//screenshots/delete-goal.jpeg) |
 
 
 
